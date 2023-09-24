@@ -9,7 +9,7 @@ A Simple Windows Script to Bypass WinRar Activation
 ## Usage
 
 Automatic:
-- run the *activate.cmd* file as administartor 
+- run the *activate.cmd* file as administrator (right-click  & choose 'run as administrator')
 
 (or)
 
